@@ -1,9 +1,6 @@
 ### Uchiha Adino 👋
-![Alt Text](https://media.giphy.com/media/ZL2iRxhnDwtSE/giphy.gif) { width: 300px; height: 200px; }
-![Alt Text](https://media.giphy.com/media/zHO316FmyqmZi/giphy.gif) { width: 300px; height: 200px; }
-
-<!--
-**AdinoWayne/AdinoWayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alt Text](https://media.giphy.com/media/ZL2iRxhnDwtSE/giphy.gif  =300x200)
+![Alt Text](https://media.giphy.com/media/zHO316FmyqmZi/giphy.gif  =300x200)
 
 Here are some ideas to get you started:
 
@@ -15,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
