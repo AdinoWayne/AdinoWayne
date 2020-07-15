@@ -1,5 +1,7 @@
 ### Uchiha Adino 👋
 ![Alt Text](https://media.giphy.com/media/ZL2iRxhnDwtSE/giphy.gif)
+![Alt Text](https://media.giphy.com/media/zHO316FmyqmZi/giphy.gif)
+
 <!--
 **AdinoWayne/AdinoWayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
