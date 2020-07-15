@@ -1,6 +1,5 @@
 ### Uchiha Adino 👋
-![Alt Text](https://media.giphy.com/media/ZL2iRxhnDwtSE/giphy.gif  =300x200)
-![Alt Text](https://media.giphy.com/media/zHO316FmyqmZi/giphy.gif  =300x200)
+![Alt Text](https://media.giphy.com/media/ZL2iRxhnDwtSE/giphy.gif)
 
 Here are some ideas to get you started:
 
