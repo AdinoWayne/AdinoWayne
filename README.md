@@ -1,7 +1,6 @@
 ### Uchiha Adino 👋
-![Alt Text](https://media.giphy.com/media/ZL2iRxhnDwtSE/giphy.gif)
 <img src="https://media.giphy.com/media/ZL2iRxhnDwtSE/giphy.gif" width="200">
-![Alt Text](https://media.tenor.com/images/450e6624ff3549a7ae5aaaf860dd7833/tenor.gif)
+<img src="https://media.tenor.com/images/450e6624ff3549a7ae5aaaf860dd7833/tenor.gif" width="200">
 
 
 Here are some ideas to get you started:
